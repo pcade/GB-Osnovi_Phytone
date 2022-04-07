@@ -1,6 +1,10 @@
-fr  om itertools import chain
+from itertools import chain
 from collections import defaultdict
 
+print("\nРеализовать функцию, принимающую несколько параметров\n"
+      "описывающих данные пользователя: имя, фамилия, год рождения, город проживания\n"
+      "email, телефон. Функция должна принимать параметры как именованные аргументы.\n"
+      "Реализовать вывод данных о пользователе одной строкой.\n")
 flag = True
 mylist = []
 while flag:
