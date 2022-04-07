@@ -1,4 +1,4 @@
-from itertools import chain
+fr  om itertools import chain
 from collections import defaultdict
 
 flag = True
