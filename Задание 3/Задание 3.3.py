@@ -6,8 +6,8 @@ def my_func(first, second, therd):
     return all
 print("\nРеализовать функцию my_func()\nкоторая принимает три"
       " позиционных аргумента, и возвращает сумму наибольших двух аргументов.\n")
-first = float(input("Введите либое число - "))
-second = float(input("Введите либое число - "))
-therd = float(input("Введите либое число - "))
+first = float(input("Введите любое число - "))
+second = float(input("Введите любое число - "))
+therd = float(input("Введите любое число - "))
 
 print(f"Полученный результат - {my_func(first,second,therd)}")
